@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppSpinner</string>
+    <string name="txt_val1">Ingresar el primer valor</string>
+    <string name="txt_val2">Ingresar el segundo valor</string>
+    <string name="cbo_combo">Seleccionar lista</string>
+    <string name="button">Calcular</string>
+    <string name="txt_resultado">Resultado</string>
+
+
+
+</resources>
